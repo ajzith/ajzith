@@ -14,9 +14,15 @@
 ### 👨‍💻 About Me
 
 ```javascript
-const ajit = {
-  role: "Bachelor of Computer Application Student",
-  aspirations: ["Aspiring Cloud Architect"],
+const ajit = { 
+  name: "Ajit Guru S"
+  university: "Amrita Vishwa Vidyapeetham",
+  program: "Bachelor of Computer Applications (In progress)",
+  city: "Chennai",
+  stack: ["C", "Python", "Java", "PHP", "HTML5", "CSS3"],
+  database: "MySQL",
+  aspiration: ["Cloud Architect"],
+  preferred_tools: ["Visual Studio Code", "Android Studio", "Jupyter Notebook", "Git", "GitHub"],
   interests: ["Networking", "Cloud Computing", "Full-Stack Development", "Open Source"],
-  fun_facts: ["Forever Batman fan", "Love playing football ⚽"]
+  fun_fact: "Forever Batman Fan 🦇"
 };
