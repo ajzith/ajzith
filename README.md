@@ -15,7 +15,6 @@
 
 ```javascript
 const ajit = {
-  pronouns: "He/Him",
   role: "Bachelor of Computer Application Student",
   aspirations: ["Aspiring Cloud Architect"],
   interests: ["Networking", "Cloud Computing", "Full-Stack Development", "Open Source"],
