@@ -15,8 +15,8 @@
 
 ```javascript
 const ajit = { 
-  name: "Ajit Guru S"
-university: "Amrita Vishwa Vidyapeetham",
+  name: "Ajit Guru S",
+  university: "Amrita Vishwa Vidyapeetham",
   program: "Bachelor of Computer Applications (In progress)",
   city: "Chennai",
   stack: ["C", "Python", "Java", "PHP", "HTML5", "CSS3", "JavaScript"],
