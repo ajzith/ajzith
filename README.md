@@ -3,7 +3,6 @@
 ---
 ### ⚙️ Skills 
 <p align="center">
-  <a href="https://skillicons.dev">
     <I>Here are some of the programming languages and tools I am proficient in:</I><br>
     <img src="https://skillicons.dev/icons?i=py,java,c,php,html,css,js,mysql,vscode,androidstudio" />
   </a>
