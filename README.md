@@ -4,7 +4,7 @@
 ### ⚙️ Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <b>Here are some of the programming languages and tools I am proficient in:</b>
+    <I>Here are some of the programming languages and tools I am proficient in:</I><br>
     <img src="https://skillicons.dev/icons?i=py,java,c,php,html,css,js,mysql,vscode,androidstudio" />
   </a>
 </p>
