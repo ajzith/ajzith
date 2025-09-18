@@ -1,17 +1,11 @@
 ### Hi there 👋, I'm Ajit Guru S
 
 ---
-### ⚙️ My Skills 
+### ⚙️ Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,php,html,css,js" />
-  </a>
-</p>
-
-### 🛠️ Tools 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,vscode,androidstudio" />
+    <b>Here are some of the programming languages and tools I am proficient in:</b>
+    <img src="https://skillicons.dev/icons?i=py,java,c,php,html,css,js,mysql,vscode,androidstudio" />
   </a>
 </p>
 
