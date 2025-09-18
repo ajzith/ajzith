@@ -45,11 +45,7 @@ const ajit = {
   name: "Ajit Guru S",
   university: "Amrita Vishwa Vidyapeetham",
   program: "Bachelor of Computer Applications (In progress)",
-  city: "Chennai",
-  stack: ["C", "Python", "Java", "PHP", "HTML5", "CSS3", "JavaScript"],
-  database: "MySQL",
   aspiration: "Cloud Architect",
-  preferred_tools: ["Visual Studio Code", "Android Studio", "Jupyter Notebook", "Git", "GitHub"],
   interests: ["Networking", "Cloud Computing", "Full-Stack Development", "Open Source"],
   fun_fact: "Forever Batman Fan 🦇"
 }; 
