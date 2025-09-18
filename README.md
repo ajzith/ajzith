@@ -2,6 +2,8 @@
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### 📊 My GitHub Stats & Streak
 <p align="center">
     <img height="180em" src="https://github-readme-stats-one-ebon-36.vercel.app/api?username=ajzith&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
