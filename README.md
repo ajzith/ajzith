@@ -28,8 +28,7 @@
 ### 🤝 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/ajit-guru-s-18a21731b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ajit-guru-s" /></a>
-<a href="https://www.instagram.com/ajzith/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ajzith" /></a>
-</p>
+
 ---
 
 ### 👨‍💻 About Me
