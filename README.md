@@ -29,6 +29,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ajit-guru-s-18a21731b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ajit-guru-s" /></a>
 
+[![An image of @ajzith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajzith)](https://holopin.io/@ajzith)
+
 ---
 
 ### 👨‍💻 About Me
@@ -41,3 +43,4 @@ const ajit = {
   interests: ["Networking", "Cloud Computing", "Full-Stack Development", "Open Source"],
   fun_fact: "Forever Batman Fan 🦇"
 }; 
+
