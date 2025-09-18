@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Ajit Guru S
 
 ---
-### MY Skills 
+### ⚙️ My Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,python,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=MySQL)](https://skillicons.dev)
 
 ### 📊 My GitHub Stats & Streak
 <p align="center">
