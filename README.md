@@ -12,8 +12,7 @@
 <p align="center">
     <img height="180em" src="https://github-readme-stats-one-ebon-36.vercel.app/api?username=ajzith&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-one-ebon-36.vercel.app/api/top-langs/?username=ajzith&layout=compact&langs_count=8&theme=dark"/>
-    <img height="180em" src="https://streak-stats.demolab.com/?user=ajzith&theme=dark" />
-</p>
+
 
 
 ---
