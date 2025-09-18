@@ -8,6 +8,13 @@
   </a>
 </p>
 
+### 🛠️ Tools 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,vscode" />
+  </a>
+</p>
+
 ### 📊 My GitHub Stats & Streak
 <p align="center">
     <img height="180em" src="https://github-readme-stats-one-ebon-36.vercel.app/api?username=ajzith&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
