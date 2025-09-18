@@ -2,8 +2,11 @@
 
 ---
 ### ⚙️ My Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,python,php)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=MySQL)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,php,html,css,js" />
+  </a>
+</p>
 
 ### 📊 My GitHub Stats & Streak
 <p align="center">
