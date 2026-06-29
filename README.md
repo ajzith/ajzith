@@ -8,21 +8,6 @@
   </a>
 </p>
 
-### 📊 My GitHub Stats & Streak
-<p align="center">
-    <img height="180em" src="https://github-readme-stats-one-ebon-36.vercel.app/api?username=ajzith&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-one-ebon-36.vercel.app/api/top-langs/?username=ajzith&layout=compact&langs_count=8&theme=dark"/>
-
-
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajzith&theme=dracula&column=7" />
-  </a>
-</p>
 
 ### 🤝 Connect with Me
 <p align="center">
