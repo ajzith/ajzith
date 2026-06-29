@@ -22,9 +22,8 @@
 const ajit = { 
   name: "Ajit Guru S",
   university: "Amrita Vishwa Vidyapeetham",
-  program: "Bachelor of Computer Applications (In progress)",
+  program: "Master of Computer Applications (In progress)",
   aspiration: "Cloud Architect",
   interests: ["Networking", "Cloud Computing", "Full-Stack Development", "Open Source"],
-  fun_fact: "Forever Batman Fan 🦇"
 }; 
 
